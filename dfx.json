@@ -1,0 +1,27 @@
+{
+  "canisters": {
+    "random_ICP_backend": {
+      "candid": "src/random_ICP_backend/random_ICP_backend.did",
+      "package": "random_ICP_backend",
+      "type": "rust"
+    },
+    "random_ICP_frontend": {
+      "dependencies": [
+        "random_ICP_backend"
+      ],
+      "source": [
+        "src/random_ICP_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "random_ICP_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}

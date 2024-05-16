@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/random_ICP_backend"
+]
+resolver = "2"
