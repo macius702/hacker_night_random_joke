@@ -6,7 +6,7 @@ const JOKES: [&str; 10] = [
     "Szef do pracownika: - W tym tygodniu to już czwarte spóźnienie. Jaki z tego należy wyciągnąć wniosek? - Że dziś czwartek.",
     "Co mówi leniwa osoba, gdy słyszy coś niedorzecznego? Nie chce mi się w to wierzyć.",
     "Dlaczego koza wydaje się tania w utrzymaniu? Bo może zeżreć cokolwiek. A dlaczego koza jest droga w utrzymaniu? Bo może zeżreć cokolwiek.",
-    "Jaka jest najbardziej królewska cześć trójkąta? Jego wysokość",
+    "Jaka jest najbardziej królewska cześć trójkąta? Jego wysokość.",
     "Pamiętajcie, Titanica zbudowali zawodowcy, a Arkę Noego amatorzy.",
     "Jakie kwiaty zabijają żony? Żonkile.",
     "Dlaczego w kosmosie nie ma dobrych imprez? Bo nie ma atmosfery.",
